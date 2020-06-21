@@ -1,5 +1,5 @@
 # Olá mundo em Ruby
-               # Olá mundo escrito em ruby
+##### Hello World in Ruby
 
 
-Este repositório foi feito para armazenar um arquivo Ruby, que, quando executado imprime "Olá mundo!" no seu console
+This Ruby project prints "Olá mundo" (Hello world in portuguese), in your console
